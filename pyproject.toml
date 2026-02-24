@@ -1,0 +1,31 @@
+[project]
+name = "rna-splicing"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "biomart>=0.9.2",
+    "captum>=0.7.0",
+    "combat>=0.3.3",
+    "gseapy>=1.1.10",
+    "imbalanced-learn>=0.14.0",
+    "imblearn>=0.0",
+    "inmoose>=0.8.1",
+    "matplotlib>=3.10.6",
+    "mygene>=3.2.2",
+    "numpy>=2.3.3",
+    "pandas>=2.3.2",
+    "pycombat>=0.20",
+    "rnanorm>=2.2.0",
+    "scikit-learn>=1.7.2",
+    "seaborn>=0.13.2",
+    "shap>=0.48.0",
+    "stats>=0.1.2a0",
+    "statsmodels>=0.14.5",
+    "tensorflow>=2.20.0",
+    "torch>=2.8.0",
+    "torchaudio>=2.8.0",
+    "torchvision>=0.23.0",
+    "umap-learn>=0.5.9.post2",
+]

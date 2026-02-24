@@ -1,0 +1,367 @@
+# Project File Analysis Report
+**Date:** 2025-09-22 10:12:56
+
+## File Summaries
+
+- README.md: Error loading MD ()
+- README_data.md:  # Data Provenance Documentation  ## Overview This document 
+- jupyter-captum-insights.json: keys=['load_extensions']
+- metadata.json: keys=['generator', 'classifiers', 'metadata_version', 'license', 'name']
+- asset-manifest.json: keys=['files', 'entrypoints']
+- AUTHORS.md: # Project Contributors  The following people have made contr
+- palette.json: keys=['aaas', 'boynton', 'cosmic', 'd3js', 'futurama']
+- LICENSE.md: Copyright © 2020, [Encode OSS Ltd](https://www.encode.io/). 
+- LICENSE.md: Copyright © 2019, [Encode OSS Ltd](https://www.encode.io/). 
+- LICENSE.md: BSD 3-Clause License  Copyright (c) 2013-2024, Kim Davies an
+- metadata.json: keys=['extensions', 'extras', 'generator', 'metadata_version', 'name']
+- pasilla_sample_annotation.csv: 7x6, number of lanes: mean=3.000, std=1.732; exon counts: mean=14522722.000, std=3441752.423; 
+- LICENSE.md: BSD 3-Clause License  Copyright 2007, 2008 The Python Markdo
+- back.png: 380 bytes
+- back_large.png: 620 bytes
+- filesave.png: 458 bytes
+- filesave_large.png: 720 bytes
+- forward.png: 357 bytes
+- forward_large.png: 593 bytes
+- hand.png: 979 bytes
+- help.png: 472 bytes
+- help_large.png: 747 bytes
+- home.png: 468 bytes
+- home_large.png: 790 bytes
+- matplotlib.png: 1283 bytes
+- matplotlib_large.png: 3088 bytes
+- move.png: 481 bytes
+- move_large.png: 767 bytes
+- qt4_editor_options.png: 380 bytes
+- qt4_editor_options_large.png: 619 bytes
+- subplots.png: 445 bytes
+- subplots_large.png: 662 bytes
+- zoom_to_rect.png: 530 bytes
+- zoom_to_rect_large.png: 1016 bytes
+- data_x_x2_x3.csv: 10x1, 
+- grace_hopper.jpg: 61306 bytes
+- logo2.png: 22279 bytes
+- Minduka_Present_Blue_Pack.png: 13634 bytes
+- msft.csv: 65x7, Open: mean=26.775, std=0.970; High: mean=27.080, std=1.018; Low: mean=26.491, std=1.003; 
+- Stocks.csv: 525x1, 
+- test_display_complex.png: 142315 bytes
+- test_display_empty_graph.png: 3257 bytes
+- test_display_house_with_colors.png: 26002 bytes
+- test_display_labels_and_colors.png: 70446 bytes
+- test_display_shortest_path.png: 35897 bytes
+- test_house_with_colors.png: 21918 bytes
+- LICENSE.md: **This software is dual-licensed under the The University of
+- mt19937-testset-1.csv: 1000x2, seed: mean=499.500, std=288.819; 
+- mt19937-testset-2.csv: 1000x2, seed: mean=499.500, std=288.819; 
+- pcg64-testset-1.csv: 1000x2, seed: mean=499.500, std=288.819; 
+- pcg64-testset-2.csv: 1000x2, seed: mean=499.500, std=288.819; 
+- pcg64dxsm-testset-1.csv: 1000x2, seed: mean=499.500, std=288.819; 
+- pcg64dxsm-testset-2.csv: 1000x2, seed: mean=499.500, std=288.819; 
+- philox-testset-1.csv: 1000x2, seed: mean=499.500, std=288.819; 
+- philox-testset-2.csv: 1000x2, seed: mean=499.500, std=288.819; 
+- sfc64-testset-1.csv: 1000x2, seed: mean=499.500, std=288.819; 
+- sfc64-testset-2.csv: 1000x2, seed: mean=499.500, std=288.819; 
+- umath-validation-set-arccos.csv: 1428x4, ulperrortol: mean=2.000, std=1.000; 
+- umath-validation-set-arccosh.csv: 1428x4, ulperrortol: mean=1.500, std=0.500; 
+- umath-validation-set-arcsin.csv: 1428x4, ulperrortol: mean=2.500, std=1.501; 
+- umath-validation-set-arcsinh.csv: 1428x4, ulperrortol: mean=1.500, std=0.500; 
+- umath-validation-set-arctan.csv: 1428x4, ulperrortol: mean=2.000, std=1.000; 
+- umath-validation-set-arctanh.csv: 1428x4, ulperrortol: mean=1.500, std=0.500; 
+- umath-validation-set-cbrt.csv: 1428x4, ulperrortol: mean=2.000, std=0.000; 
+- umath-validation-set-cos.csv: 1374x4, ulperrortol: mean=1.482, std=0.500; 
+- umath-validation-set-cosh.csv: 1428x4, ulperrortol: mean=2.000, std=1.000; 
+- umath-validation-set-exp.csv: 411x4, ulperrortol: mean=1.703, std=0.956; 
+- umath-validation-set-exp2.csv: 1428x4, ulperrortol: mean=1.500, std=0.500; 
+- umath-validation-set-expm1.csv: 1428x4, ulperrortol: mean=2.000, std=1.000; 
+- umath-validation-set-log.csv: 270x4, ulperrortol: mean=2.304, std=1.490; 
+- umath-validation-set-log10.csv: 1628x4, ulperrortol: mean=2.500, std=1.500; 
+- umath-validation-set-log1p.csv: 1428x4, ulperrortol: mean=1.500, std=0.500; 
+- umath-validation-set-log2.csv: 1628x4, ulperrortol: mean=2.000, std=1.000; 
+- umath-validation-set-sin.csv: 1369x4, ulperrortol: mean=1.480, std=0.500; 
+- umath-validation-set-sinh.csv: 1428x4, ulperrortol: mean=1.500, std=0.500; 
+- umath-validation-set-tan.csv: 1428x4, ulperrortol: mean=2.500, std=1.501; 
+- umath-validation-set-tanh.csv: 1428x4, ulperrortol: mean=2.000, std=0.000; 
+- toy_exp.csv: 4x6, Gene_1: mean=250.000, std=100.000; Gene_2: mean=375.000, std=150.000; Gene_3: mean=625.000, std=250.000; 
+- LICENSE.md: Copyright (C) 2010-2019 Max-Planck-Society All rights reserv
+- dots.png: 2114 bytes
+- studentized_range_mpmath_ref.json: keys=['COMMENT', 'moment_data', 'cdf_data', 'pdf_data']
+- LICENSE.md: Copyright (c) 2012-2023, Michael L. Waskom All rights reserv
+- distutils.schema.json: keys=['$schema', '$id', 'title', '$$description', 'type']
+- setuptools.schema.json: keys=['$schema', '$id', 'title', '$$description', 'type']
+- logoSmallGray.png: 570 bytes
+- breast_cancer.csv: 569x4, 569: mean=0.115, std=0.066; 30: mean=0.290, std=0.062; malignant: mean=0.084, std=0.018; 
+- iris.csv: 150x5, 150: mean=5.843, std=0.828; 4: mean=3.057, std=0.436; setosa: mean=3.758, std=1.765; 
+- linnerud_exercise.csv: 20x1, 
+- linnerud_physiological.csv: 20x1, 
+- wine_data.csv: 178x5, 178: mean=5.058, std=2.318; 13: mean=0.957, std=0.229; class_0: mean=2.612, std=0.710; 
+- china.jpg: 196653 bytes
+- flower.jpg: 142987 bytes
+- README.md: Error loading MD ()
+- README.md: Error loading MD ()
+- anes96.csv: 944x1, 
+- cancer.csv: 301x2, cancer: mean=39.857, std=50.978; population: mean=11288.056, std=13780.010; 
+- ccard.csv: 72x5, AVGEXP: mean=262.532, std=318.047; AGE: mean=31.278, std=7.153; INCOME: mean=3.437, std=1.699; 
+- china_smoking.csv: 8x5, smoking_yes_cancer_yes: mean=366.250, std=351.561; smoking_yes_cancer_no: mean=294.875, std=270.515; smoking_no_cancer_yes: mean=143.875, std=176.991; 
+- co2.csv: 2284x2, date: mean=19796817.495, std=126387.405; co2: mean=340.142, std=17.004; 
+- committee.csv: 20x7, BILLS104: mean=101.150, std=98.727; SIZE: mean=39.900, std=15.580; SUBS: mean=4.250, std=2.954; 
+- copper.csv: 25x7, YEAR: mean=1963.000, std=7.360; WORLDCONSUMPTION: mean=5433.632, std=1669.629; COPPERPRICE: mean=37.168, std=6.911; 
+- cpunish.csv: 17x8, EXECUTIONS: mean=4.353, std=8.696; INCOME: mean=35462.706, std=4939.735; PERPOVERTY: mean=13.494, std=3.457; 
+- data.csv: 55x6, lrm: mean=11.754, std=0.152; lry: mean=5.952, std=0.073; lpy: mean=0.010, std=0.334; 
+- elec_equip.csv: 257x2, STS.M.I7.W.TOVT.NS0016.4.000: mean=100.575, std=15.698; 
+- elnino.csv: 61x13, YEAR: mean=1980.000, std=17.753; JAN: mean=24.392, std=0.914; FEB: mean=25.839, std=0.801; 
+- engel.csv: 235x2, income: mean=982.473, std=519.231; foodexp: mean=624.150, std=276.457; 
+- fair.csv: 6366x9, rate_marriage: mean=4.110, std=0.961; age: mean=29.083, std=6.848; yrs_married: mean=9.009, std=7.280; 
+- fair_pt.csv: 601x11, identifier: mean=1059.722, std=914.905; constant: mean=1.000, std=0.000; sex: mean=0.476, std=0.500; 
+- fertility.csv: 219x58, 1960: mean=5.512, std=1.721; 1961: mean=5.492, std=1.737; 1962: mean=5.492, std=1.748; 
+- grunfeld.csv: 220x5, invest: mean=133.312, std=210.587; value: mean=988.578, std=1287.301; capital: mean=257.109, std=293.228; 
+- heart.csv: 69x3, survival: mean=376.797, std=458.362; censors: mean=0.652, std=0.480; age: mean=46.135, std=8.875; 
+- E6.csv: 107x4, year: mean=1985.121, std=7.759; quarter: mean=2.514, std=1.119; Dp: mean=0.008, std=0.019; 
+- E6_jmulti.csv: 106x1, 
+- longley.csv: 16x8, Obs: mean=8.500, std=4.761; TOTEMP: mean=65317.000, std=3511.968; GNPDEFL: mean=101.681, std=10.792; 
+- macrodata.csv: 203x14, year: mean=1983.877, std=14.687; quarter: mean=2.493, std=1.119; realgdp: mean=7221.172, std=3214.956; 
+- modechoice.csv: 840x1, 
+- nile.csv: 100x2, year: mean=1920.500, std=29.011; volume: mean=919.350, std=169.228; 
+- randhie.csv: 20190x10, mdvis: mean=2.860, std=4.504; lncoins: mean=1.774, std=1.983; idp: mean=0.260, std=0.439; 
+- scotvote.csv: 32x9, YES: mean=61.441, std=7.971; COUTAX: mean=744.375, std=110.493; UNEMPF: mean=22.666, std=2.586; 
+- spector.csv: 32x1, 
+- stackloss.csv: 21x4, STACKLOSS: mean=17.524, std=10.172; AIRFLOW: mean=60.429, std=9.168; WATERTEMP: mean=21.095, std=3.161; 
+- star98.csv: 303x22, MATHTOT: mean=883.205, std=2377.552; PR50M: mean=357.815, std=660.911; LOWINC: mean=41.410, std=20.467; 
+- statecrime.csv: 51x8, violent: mean=411.482, std=208.017; murder: mean=4.900, std=3.646; hs_grad: mean=86.878, std=3.378; 
+- strikes.csv: 62x2, duration: mean=42.661, std=45.855; iprod: mean=0.011, std=0.046; 
+- sunspots.csv: 309x2, YEAR: mean=1854.000, std=89.345; SUNACTIVITY: mean=49.752, std=40.453; 
+- mnlogit_resid.csv: 0x944, 
+- nbinom_resids.csv: 19x5, -.5049508: mean=0.030, std=0.513; -.6297218: mean=-0.059, std=0.535; -83.54991: mean=-4684.309, std=17294.346; 
+- phat_mnlogit.csv: 943x1, 
+- poisson_resid.csv: 0x20190, 
+- predict_prob_poisson.csv: 99x78, 8.379031744168380369e-02: mean=0.071, std=0.048; 2.077528821676430104e-01: mean=0.173, std=0.075; 2.575551768198139913e-01: mean=0.221, std=0.054; 
+- ships.csv: 40x9, ship: mean=3.000, std=1.432; yr_con: mean=2.500, std=1.132; yr_op: mean=1.500, std=0.506; 
+- sm3533.csv: 270x2, pp: mean=10.703, std=0.831; num: mean=1167.726, std=1616.432; 
+- yhat_mnlogit.csv: 943x1, 
+- yhat_poisson.csv: 20189x2, 2.479438: mean=2.860, std=1.266; .9080318: mean=0.988, std=0.333; 
+- bmt.csv: 137x3, T: mean=782.029, std=741.928; Status: mean=0.606, std=0.490; 
+- bmt_results.csv: 23x8, t: mean=254.087, std=192.319; s: mean=0.664, std=0.193; se: mean=0.069, std=0.016; 
+- survival_data_1000_10.csv: 999x1, 
+- survival_data_100_5.csv: 99x1, 
+- survival_data_20_1.csv: 19x1, 
+- survival_data_50_1.csv: 49x1, 
+- survival_data_50_2.csv: 49x1, 
+- autos.csv: 205x26, symbol: mean=0.834, std=1.245; loss: mean=122.000, std=35.442; wb: mean=98.757, std=6.022; 
+- autos_exog.csv: 203x13, (Intercept): mean=1.000, std=0.000; fuelgas: mean=0.901, std=0.299; drivefwd: mean=0.581, std=0.495; 
+- autos_predict.csv: 203x11, Row.names: mean=102.719, std=59.547; fit: mean=25.241, std=5.766; se_fit: mean=0.698, std=0.231; 
+- cubic_cyclic_splines_from_mgcv.csv: 400x10, Unnamed: 0: mean=200.500, std=115.614; y: mean=7.833, std=3.702; x0: mean=0.483, std=0.302; 
+- gam_PIRLS_results.csv: 100x10, Unnamed: 0: mean=50.500, std=29.011; x: mean=0.042, std=0.540; y: mean=-0.278, std=0.408; 
+- logit_gam_mgcv.csv: 200x4, Unnamed: 0: mean=100.500, std=57.879; x: mean=0.000, std=5.817; y: mean=0.650, std=0.478; 
+- motorcycle.csv: 133x2, times: mean=25.179, std=13.132; accel: mean=-25.546, std=48.322; 
+- prediction_from_mgcv.csv: 1000x8, Unnamed: 0: mean=500.500, std=288.819; y: mean=0.010, std=0.337; x: mean=0.001, std=0.577; 
+- enet_binomial.csv: 199x6, 0.00: mean=0.513, std=0.501; 0.42: mean=-0.102, std=1.010; 0.45: mean=-0.136, std=1.052; 
+- enet_poisson.csv: 199x6, 0.00: mean=1.241, std=1.240; -0.55: mean=0.027, std=1.020; 0.38: mean=-0.085, std=1.008; 
+- epil.csv: 236x10, Unnamed: 0: mean=118.500, std=68.272; y: mean=8.254, std=12.347; base: mean=31.220, std=26.705; 
+- gee_linear_1.csv: 412x5, 0: mean=49.709, std=29.001; -3: mean=-0.131, std=1.707; 0.030: mean=0.086, std=0.951; 
+- gee_logistic_1.csv: 404x5, 0: mean=49.153, std=28.835; 1: mean=0.512, std=0.500; 1.548: mean=-0.056, std=0.941; 
+- gee_nested_linear_1.csv: 1999x5, 0: mean=99.550, std=57.720; 3.555: mean=-0.170, std=3.023; 1.199: mean=-0.013, std=1.010; 
+- gee_nominal_1.csv: 795x4, 0: mean=100.327, std=58.000; 0.1: mean=0.799, std=0.891; 1.000: mean=1.000, std=0.000; 
+- gee_ordinal_1.csv: 786x7, 0: mean=99.525, std=57.811; 0.1: mean=1.650, std=1.351; 2.251: mean=0.102, std=1.463; 
+- gee_poisson_1.csv: 398x7, 0: mean=49.249, std=28.772; 2: mean=1.440, std=1.941; 0.044: mean=0.032, std=1.342; 
+- igaussident_resids.csv: 3675x5, .064289: mean=0.000, std=0.318; .0594801: mean=-0.087, std=0.275; 1.152063: mean=0.031, std=4.757; 
+- inv_gaussian.csv: 25000x3, xig: mean=0.941, std=0.504; x1: mean=0.802, std=0.607; x2: mean=0.802, std=0.610; 
+- iris.csv: 150x5, 150: mean=5.843, std=0.828; 4: mean=3.054, std=0.434; setosa: mean=3.759, std=1.764; 
+- medparlogresids.csv: 3675x5, 5.185370000000000257e-02: mean=0.000, std=0.320; 4.861850000000000199e-02: mean=-0.087, std=0.274; 6.801632999999999818e+00: mean=0.051, std=30.646; 
+- results_tweedie_aweights_nonrobust.csv: 6366x4, V1: mean=-0.029, std=2.195; V2: mean=-0.020, std=3.568; V3: mean=-1.313, std=2.326; 
+- stata_cancer_glm.csv: 48x3, studytime: mean=15.500, std=10.256; age: mean=55.875, std=5.659; drug: mean=1.875, std=0.841; 
+- stata_lbw_glm.csv: 189x11, id: mean=121.079, std=63.304; low: mean=0.312, std=0.465; age: mean=23.238, std=5.299; 
+- stata_medpar1_glm.csv: 3676x3, los: mean=5.992, std=4.892; codes: mean=7.803, std=1.861; 
+- ologit_ucla.csv: 400x4, pared: mean=0.158, std=0.365; public: mean=0.142, std=0.350; gpa: mean=2.999, std=0.398; 
+- factors_stata.csv: 100x8, f1: mean=-0.000, std=0.739; f2: mean=-0.000, std=0.534; f1b: mean=-0.000, std=1.372; 
+- factor_data.csv: 100x5, var1: mean=-0.068, std=1.498; var2: mean=0.031, std=1.100; var3: mean=-0.076, std=1.168; 
+- results_kcde.csv: 200x4, gau_support: mean=0.192, std=1.672; gau_cdf: mean=0.440, std=0.392; gau_sf: mean=0.560, std=0.392; 
+- results_kde.csv: 200x5, gau_d: mean=0.173, std=0.171; biw_d: mean=0.173, std=0.190; cos_d: mean=0.173, std=0.201; 
+- results_kde_fft.csv: 511x1, 1.884326338768005371e-04: mean=0.174, std=0.171; 
+- results_kde_univ_weights.csv: 60x10, x: mean=-0.286, std=1.109; weights: mean=0.537, std=0.295; x_gau_wd: mean=0.241, std=0.077; 
+- results_kde_weights.csv: 50x1, gau_weights: mean=0.171, std=0.164; 
+- results_kernel_regression.csv: 40x21, ship: mean=3.000, std=1.432; service: mean=4811.000, std=9644.166; accident: mean=10.471, std=15.735; 
+- test_lowess_delta.csv: 133x5, x: mean=25.179, std=13.132; y: mean=-25.546, std=48.322; out_0: mean=-25.318, std=45.463; 
+- test_lowess_frac.csv: 30x4, x: mean=0.000, std=3.815; y: mean=0.130, std=1.193; out_2_3: mean=0.327, std=0.608; 
+- test_lowess_iter.csv: 20x4, x: mean=9.500, std=5.916; y: mean=9.463, std=5.992; out_0: mean=9.493, std=5.819; 
+- test_lowess_simple.csv: 20x3, x: mean=9.500, std=5.916; y: mean=9.470, std=6.003; out: mean=9.624, std=5.834; 
+- foodexpenditure.csv: 38x3, food: mean=15.953, std=5.624; income: mean=58.444, std=19.932; persons: mean=3.579, std=1.703; 
+- methylation-test.csv: 36x10, Unnamed: 0.1: mean=17.500, std=10.536; Unnamed: 0: mean=17.500, std=10.536; age: mean=54.179, std=7.282; 
+- resid_methylation.csv: 36x7, fittedvalues: mean=0.874, std=0.046; pearson: mean=-0.006, std=1.014; deviance: mean=-0.026, std=1.013; 
+- dietox.csv: 861x7, Weight: mean=60.726, std=24.979; Feed: mean=80.729, std=52.878; Time: mean=6.481, std=3.445; 
+- lasso_data.csv: 299x6, -178: mean=-2.441, std=193.873; 3: mean=-9.940, std=97.587; 59: mean=-2.502, std=99.702; 
+- lme00.csv: 240x4, groups: mean=49.933, std=29.130; endog: mean=0.000, std=1.317; exog_fe_0: mean=-0.063, std=1.103; 
+- lme01.csv: 254x4, groups: mean=47.811, std=29.003; endog: mean=-0.030, std=2.249; exog_fe_0: mean=-0.024, std=1.093; 
+- lme02.csv: 235x5, groups: mean=49.830, std=29.653; endog: mean=0.169, std=1.638; exog_fe_0: mean=-0.061, std=1.022; 
+- lme03.csv: 229x5, groups: mean=48.227, std=27.767; endog: mean=0.098, std=2.453; exog_fe_0: mean=-0.038, std=1.077; 
+- lme04.csv: 252x6, groups: mean=48.409, std=29.042; endog: mean=-0.048, std=1.613; exog_fe_0: mean=0.026, std=1.060; 
+- lme05.csv: 268x6, groups: mean=50.142, std=28.927; endog: mean=0.013, std=2.492; exog_fe_0: mean=0.058, std=0.991; 
+- lme06.csv: 260x5, groups: mean=50.912, std=28.957; endog: mean=-0.065, std=1.687; exog_fe_0: mean=0.049, std=1.003; 
+- lme07.csv: 261x5, groups: mean=49.916, std=28.650; endog: mean=0.311, std=2.649; exog_fe_0: mean=-0.068, std=0.971; 
+- lme08.csv: 249x6, groups: mean=50.574, std=29.221; endog: mean=-0.074, std=2.036; exog_fe_0: mean=-0.026, std=0.964; 
+- lme09.csv: 255x6, groups: mean=48.514, std=28.533; endog: mean=-0.249, std=2.952; exog_fe_0: mean=-0.014, std=0.989; 
+- lme10.csv: 262x7, groups: mean=49.359, std=27.297; endog: mean=0.032, std=2.170; exog_fe_0: mean=-0.010, std=1.020; 
+- lme11.csv: 261x7, groups: mean=49.364, std=28.832; endog: mean=-0.062, std=2.983; exog_fe_0: mean=0.021, std=0.982; 
+- pastes.csv: 60x5, Unnamed: 0: mean=30.500, std=17.464; strength: mean=60.053, std=3.238; 
+- results_rls_R.csv: 201x4, beta1: mean=10.975, std=7.061; beta2: mean=0.141, std=0.039; rec_resid: mean=-2.166, std=8.926; 
+- results_rls_stata.csv: 203x7, rr: mean=-2.178, std=8.947; cusum: mean=-14.656, std=25.431; cusum2: mean=0.326, std=0.368; 
+- theil_textile_predict.csv: 17x2, fittedvalues: mean=2.122, std=0.077; fittedvalues_se: mean=0.005, std=0.001; 
+- racd10data_with_transformed.csv: 3629x24, offer: mean=0.034, std=0.182; ssiratio: mean=0.530, std=0.371; age: mean=74.232, std=6.380; 
+- binary_constrict.csv: 39x8, Case: mean=20.000, std=11.402; rate: mean=1.688, std=0.881; volumne: mean=1.360, std=0.815; 
+- bootleg.csv: 9264x4, 0.950300: mean=0.739, std=0.124; 2: mean=49.276, std=28.618; 4.43400: mean=503.846, std=290.495; 
+- contingency_table_r_results.csv: 3x17, homog_stat: mean=95.386, std=153.029; homog_df: mean=2.000, std=1.000; homog_binom_p: mean=0.203, std=0.351; 
+- framing.csv: 265x16, Unnamed: 0: mean=133.000, std=76.643; cond: mean=2.472, std=1.115; age: mean=47.766, std=15.968; 
+- influence_lsdiag_R.json: keys=['std.dev', 'hat', 'std.res', 'stud.res', 'cooks']
+- influence_measures_bool_R.csv: 202x8, Unnamed: 0: mean=101.500, std=58.457; 
+- influence_measures_R.csv: 202x8, Unnamed: 0: mean=101.500, std=58.457; dfb.1_: mean=-0.000, std=0.096; dfb.ggdp: mean=0.000, std=0.113; 
+- results_influence_logit.csv: 39x13, Case: mean=20.000, std=11.402; LogRate: mean=0.318, std=0.829; LogVolumne: mean=0.160, std=0.538; 
+- wspec1.csv: 35x3, IV1: mean=0.020, std=0.087; IV2: mean=-0.278, std=12.790; DV: mean=-0.005, std=0.076; 
+- wspec2.csv: 35x4, IV1: mean=121.060, std=119.552; IV2: mean=-0.009, std=0.170; IV3: mean=0.855, std=1.459; 
+- wspec3.csv: 35x5, IV1: mean=0.020, std=0.087; IV2: mean=-2.057, std=60.602; DUM1: mean=0.029, std=0.169; 
+- wspec4.csv: 35x6, IV1: mean=121.060, std=119.552; IV2: mean=0.016, std=0.090; IV3: mean=0.052, std=0.421; 
+- cataneo2.csv: 4642x28, bweight: mean=3361.680, std=578.820; mhisp: mean=0.034, std=0.181; fhisp: mean=0.037, std=0.189; 
+- housing-data.csv: 714x2, HOUSTNSA: mean=119.454, std=38.813; 
+- mar_filardo.csv: 519x8, dlip: mean=0.245, std=0.875; dmdlleading: mean=-0.000, std=1.036; transition_00: mean=0.952, std=0.113; 
+- results_predict_fedfunds.csv: 226x14, const_p1: mean=0.720, std=0.397; const_p2: mean=0.280, std=0.397; const_f1: mean=0.720, std=0.426; 
+- results_predict_rgnp.csv: 136x11, switchar2_p1: mean=0.366, std=0.008; switchar2_p2: mean=0.634, std=0.008; switchar2_f1: mean=0.371, std=0.322; 
+- cfa_tvpvar_beta.csv: 11x9, 1.113517776: mean=0.610, std=0.859; 1.210306364: mean=0.548, std=0.872; 1.252066154: mean=0.548, std=0.865; 
+- cfa_tvpvar_invP.csv: 107x54, 100.368849325795: mean=-0.914, std=53.046; 0.0732138069722595: mean=0.012, std=26.327; 0.236019793064346: mean=0.030, std=17.465; 
+- cfa_tvpvar_Omega_11.csv: 1x4, 1.680061423: mean=2.864, std=nan; 2.863975903: mean=26.190, std=nan; 2.574208072: mean=6.258, std=nan; 
+- cfa_tvpvar_Omega_22.csv: 5x2, 0.002636820242: mean=0.007, std=0.004; 0.001882271234: mean=0.009, std=0.009; 
+- cfa_tvpvar_posterior_mean.csv: 11x9, 1.604208033: mean=0.543, std=0.761; 1.609084497: mean=0.542, std=0.762; 1.612340676: mean=0.544, std=0.761; 
+- cfa_tvpvar_S10.csv: 1x4, 30.68705738: mean=46.948, std=nan; 46.94755747: mean=256.939, std=nan; 29.4834133: mean=62.905, std=nan; 
+- cfa_tvpvar_Si0.csv: 5x2, 0.01644943736: mean=0.051, std=0.033; 0.01188992929: mean=0.047, std=0.029; 
+- cfa_tvpvar_state_variates.csv: 11x9, -0.947246644: mean=0.640, std=1.137; -0.4449063111: mean=0.075, std=1.140; 0.4571116584: mean=0.226, std=1.031; 
+- cfa_tvpvar_v10.csv: 0x2, 
+- cfa_tvpvar_vi0.csv: 0x2, 
+- clark1989.csv: 194x2, 1239.5: mean=3081.485, std=1228.510;  0: mean=5.665, std=1.749; 
+- exponential_smoothing_params.csv: 14x12, oil_fpp1: mean=3467.812, std=5964.293; oil_fpp2: mean=2305.173, std=3872.392; oil_fpp3: mean=356.648, std=367.084; 
+- exponential_smoothing_predict.csv: 29x34, Unnamed: 0: mean=15.000, std=8.515; oil_fpp1_mean: mean=471.724, std=17.773; oil_fpp1_lower: mean=412.642, std=5.568; 
+- exponential_smoothing_states.csv: 25x34, Unnamed: 0: mean=13.000, std=7.360; oil_fpp1_l: mean=455.628, std=15.110; oil_fpp2_l: mean=464.535, std=29.005; 
+- results_clark1989_R.csv: 191x7, V1: mean=0.562, std=5.070; V2: mean=7.956, std=0.492; V3: mean=0.025, std=0.307; 
+- results_dynamic_factor_stata.csv: 92x58, predict_dfm_1: mean=0.018, std=0.006; predict_dfm_2: mean=0.018, std=0.007; predict_dfm_3: mean=0.017, std=0.006; 
+- results_exact_initial_common_level_R.csv: 11x38, r_1: mean=-0.224, std=0.593; r_2: mean=-2.532, std=1.987; r0_1: mean=-0.989, std=1.399; 
+- results_exact_initial_common_level_restricted_R.csv: 11x32, r_1: mean=-0.224, std=0.593; r0_1: mean=-0.989, std=1.399; r1_1: mean=4.532, std=6.409; 
+- results_exact_initial_dfm_R.csv: 21x73, r_1: mean=0.243, std=1.036; r_2: mean=0.026, std=0.103; r0_1: mean=-0.127, std=0.221; 
+- results_exact_initial_local_level_R.csv: 11x25, r_1: mean=-0.085, std=0.233; r0_1: mean=-0.388, std=0.549; r1_1: mean=4.346, std=6.147; 
+- results_exact_initial_local_linear_trend_missing_R.csv: 11x32, r_1: mean=0.004, std=0.090; r_2: mean=0.070, std=0.102; r0_1: mean=-0.073, std=0.118; 
+- results_exact_initial_local_linear_trend_R.csv: 11x32, r_1: mean=0.023, std=0.106; r_2: mean=0.066, std=0.089; r0_1: mean=-0.011, std=0.242; 
+- results_exact_initial_var1_measurement_error_R.csv: 21x77, r_1: mean=0.335, std=0.643; r_2: mean=0.342, std=0.303; r0_1: mean=-0.488, std=0.690; 
+- results_exact_initial_var1_missing_R.csv: 21x77, r_1: mean=0.313, std=1.249; r_2: mean=0.381, std=0.690; r0_1: mean=0.027, std=0.112; 
+- results_exact_initial_var1_mixed_R.csv: 21x77, r_1: mean=0.379, std=2.075; r_2: mean=0.432, std=0.827; r0_1: mean=-1.825, std=2.581; 
+- results_exact_initial_var1_R.csv: 21x77, r_1: mean=0.379, std=2.075; r_2: mean=0.432, std=0.827; r0_1: mean=-1.825, std=2.581; 
+- results_intercepts_R.csv: 203x36, r1: mean=-2.958, std=1.725; r2: mean=-4.929, std=0.402; r3: mean=-5.924, std=0.482; 
+- results_realgdpar_stata.csv: 269x26, value: mean=7521.264, std=4337.412; u1: mean=0.008, std=0.010; u2: mean=0.008, std=0.010; 
+- results_sarimax_coverage.csv: 53x3, llf: mean=-254.988, std=126.353; 
+- results_simulation_smoothing0.csv: 9x12, eta1: mean=0.000, std=0.007; eta2: mean=0.001, std=0.004; eta3: mean=-0.006, std=0.042; 
+- results_simulation_smoothing1.csv: 9x12, eta1: mean=-0.004, std=0.007; eta2: mean=-0.003, std=0.004; eta3: mean=-0.025, std=0.042; 
+- results_simulation_smoothing2.csv: 9x12, eta1: mean=-0.003, std=0.011; eta2: mean=0.002, std=0.011; eta3: mean=-0.011, std=0.050; 
+- results_simulation_smoothing3.csv: 202x12, eta1: mean=0.001, std=0.007; eta2: mean=0.002, std=0.006; eta3: mean=-0.003, std=0.034; 
+- results_simulation_smoothing3_variates.csv: 1215x1, x: mean=-0.028, std=0.989; 
+- results_simulation_smoothing4.csv: 202x12, eta1: mean=0.001, std=0.007; eta2: mean=0.001, std=0.007; eta3: mean=-0.003, std=0.032; 
+- results_simulation_smoothing5.csv: 202x12, eta1: mean=0.002, std=0.007; eta2: mean=0.002, std=0.007; eta3: mean=-0.003, std=0.035; 
+- results_simulation_smoothing6.csv: 202x12, eta1: mean=0.001, std=0.007; eta2: mean=0.002, std=0.007; eta3: mean=0.001, std=0.034; 
+- results_smoothing2_R.csv: 202x36, r1: mean=19.786, std=58.578; r2: mean=23.135, std=73.469; r3: mean=-3.702, std=11.753; 
+- results_smoothing3_R.csv: 123x22, r1: mean=0.212, std=1.360; r2: mean=0.076, std=0.370; r3: mean=0.055, std=0.351; 
+- results_smoothing_generalobscov_R.csv: 202x36, r1: mean=-0.009, std=55.020; r2: mean=-0.062, std=38.771; r3: mean=-0.389, std=26.401; 
+- results_smoothing_R.csv: 202x36, r1: mean=-0.083, std=20.724; r2: mean=0.063, std=10.192; r3: mean=-0.244, std=15.050; 
+- results_varmax_stata.csv: 449x8, predict_varma11_1: mean=-0.000, std=0.004; predict_varma11_2: mean=-0.000, std=0.003; predict_vma1_1: mean=-0.000, std=0.002; 
+- results_var_R_output.csv: 11x295, Unnamed: 0: mean=6.000, std=3.317; basic.fcast.dln_inv.fcst: mean=0.007, std=0.003; basic.fcast.dln_inv.CI: mean=0.096, std=0.003; 
+- results_var_stata.csv: 92x34, predict_1: mean=0.015, std=0.014; predict_2: mean=0.015, std=0.010; predict_3: mean=0.014, std=0.009; 
+- results_wpi1_ar3_matlab_ssm.csv: 122x12, 0: mean=0.587, std=0.737; 0.2: mean=0.673, std=0.953; 0.3: mean=0.657, std=0.946; 
+- results_wpi1_ar3_stata.csv: 124x14, wpi: mean=62.774, std=30.244; ln_wpi: mean=4.018, std=0.501; dep1: mean=0.583, std=0.736; 
+- results_wpi1_missing_ar3_matlab_ssm.csv: 122x12, 0: mean=0.585, std=0.739; 0.2: mean=0.670, std=0.954; 0.3: mean=0.656, std=0.947; 
+- 2016-06-29.csv: 378x30, PAYEMS: mean=123744.387, std=13192.536; JTSJOL: mean=3855.216, std=797.851; CPIAUCSL: mean=174.650, std=40.632; 
+- 2016-07-29.csv: 379x30, PAYEMS: mean=123798.476, std=13216.929; JTSJOL: mean=3864.366, std=805.526; CPIAUCSL: mean=174.823, std=40.717; 
+- mstl_elec_vic.csv: 3600x2, y: mean=9477.604, std=1743.278; 
+- mstl_test_results.csv: 3600x5, Data: mean=9477.604, std=1743.278; Trend: mean=9482.394, std=541.771; Seasonal24: mean=0.092, std=1323.714; 
+- stl_co2.csv: 347x1, 315.58: mean=330.166, std=10.044; 
+- stl_test_results.csv: 2435x5, idx: mean=173.429, std=100.438; season: mean=-0.002, std=1.992; trend: mean=330.122, std=9.886; 
+- arima111_forecasts.csv: 223x6,  cpi: mean=105.076, std=61.279;  predict: mean=116.258, std=67.757;  stderr: mean=4.450, std=2.225; 
+- arima212_forecast.csv: 223x6,  cpi: mean=105.076, std=61.279;  predict: mean=116.278, std=67.805;  stderr: mean=4.355, std=2.146; 
+- ARMLEConstantPredict.csv: 333x2, 1700: mean=1867.000, std=96.273;  48.3243: mean=49.670, std=36.680; 
+- AROLSConstantPredict.csv: 415x1, 
+- AROLSNoConstantPredict.csv: 415x1, 
+- bds_data.csv: 264x4, 1: mean=13.500, std=7.071; 0.585528817843856: mean=-0.026, std=0.957; 1.80509751881082: mean=0.436, std=0.870; 
+- bds_results.csv: 19x7, 1.00000000: mean=2.579, std=1.121; 1.00000000.1: mean=3.105, std=1.410; NaN: mean=31.620, std=36.004; 
+- fit_ets_results.json: keys=['TRUE', 'FALSE']
+- fit_ets_results_nonseasonal.json: keys=['TRUE', 'FALSE']
+- fit_ets_results_seasonal.json: keys=['TRUE', 'FALSE']
+- gnpdef.csv: 82x1, GNP_DEFLATOR: mean=3.889, std=0.544; 
+- rand10000.csv: 10000x1, RAND10000: mean=10.131, std=43.760; 
+- resids_css_c.csv: 250x6, uhat1: mean=-0.000, std=1.043; uhat2: mean=-0.003, std=1.001; uhat3: mean=-0.001, std=0.918; 
+- resids_css_nc.csv: 250x6, uhat1: mean=-0.024, std=0.998; uhat2: mean=0.008, std=1.034; uhat3: mean=-0.084, std=0.913; 
+- resids_exact_c.csv: 250x6, uhat1: mean=0.001, std=1.042; uhat2: mean=-0.002, std=1.002; uhat3: mean=-0.039, std=0.946; 
+- resids_exact_nc.csv: 250x6, uhat1: mean=-0.025, std=0.997; uhat2: mean=0.011, std=1.030; uhat3: mean=-0.100, std=0.916; 
+- results_arima_exog_forecasts_css.csv: 126x8, orig_index: mean=62.000, std=36.228; year: mean=1965.128, std=9.058; quarter: mean=2.488, std=1.126; 
+- results_arima_exog_forecasts_mle.csv: 125x8, orig_index: mean=62.000, std=36.228; year: mean=1965.128, std=9.058; quarter: mean=2.488, std=1.126; 
+- results_arima_forecasts.csv: 64x50, year: mean=2007.500, std=4.646; quarter: mean=2.500, std=1.127; fc111nc: mean=206.736, std=20.389; 
+- results_arima_forecasts_all_css.csv: 230x14, fc: mean=120.949, std=69.706; fcdyn: mean=55.952, std=15.742; fcdyn2: mean=45.991, std=8.730; 
+- results_arima_forecasts_all_css_diff.csv: 228x8, fc: mean=0.939, std=0.410; fcdyn: mean=0.926, std=0.039; fcdyn2: mean=0.924, std=0.047; 
+- results_arima_forecasts_all_mle.csv: 228x8, fc: mean=119.131, std=69.584; fcdyn: mean=132.130, std=59.775; fcdyn2: mean=124.749, std=54.685; 
+- results_arima_forecasts_all_mle_diff.csv: 228x8, fc: mean=0.931, std=0.399; fcdyn: mean=0.921, std=0.038; fcdyn2: mean=0.919, std=0.043; 
+- results_arma_forecasts.csv: 10x12, fc11: mean=-0.040, std=0.027; fe11: mean=1.875, std=0.362; fc41: mean=-2.060, std=1.311; 
+- results_ar_forecast_mle_dynamic.csv: 334x6, fcdyn: mean=46.826, std=5.107; fcdyn2: mean=46.959, std=5.966; fcdyn3: mean=54.290, std=24.940; 
+- results_ccf.csv: 20x1, ccf: mean=0.003, std=0.071; 
+- results_corrgram.csv: 40x7, acvar: mean=0.689, std=0.179; acvarfft: mean=0.689, std=0.179; Q1: mean=2857.470, std=1288.197; 
+- rgnp.csv: 62x1, REAL_GNP: mean=5.560, std=0.575; 
+- rgnpq.csv: 159x1, REAL_GNP_QTR: mean=8.309, std=0.415; 
+- stkprc.csv: 100x1, STOCK_PRICES: mean=2.459, std=0.909; 
+- yhat_css_c.csv: 250x6, yhat1: mean=4.874, std=1.505; yhat2: mean=4.761, std=0.993; yhat3: mean=-1.037, std=3.894; 
+- yhat_css_nc.csv: 250x6, yhat1: mean=-0.135, std=1.915; yhat2: mean=-0.021, std=1.334; yhat3: mean=-1.719, std=2.068; 
+- yhat_exact_c.csv: 250x6, yhat1: mean=4.870, std=1.498; yhat2: mean=4.768, std=0.992; yhat3: mean=-0.894, std=3.951; 
+- yhat_exact_nc.csv: 250x6, yhat1: mean=-0.134, std=1.906; yhat2: mean=-0.019, std=1.323; yhat3: mean=-1.698, std=2.044; 
+- y_arma_data.csv: 250x12, y_arma11: mean=-0.159, std=2.154; y_arma14: mean=-0.007, std=1.680; y_arma41: mean=-1.798, std=2.180; 
+- test_coint.csv: 172x1, 
+- test_region_and.png: 6864 bytes
+- test_region_not.png: 7939 bytes
+- test_region_or.png: 8809 bytes
+- test_region_xor.png: 10002 bytes
+- graph_break_registry.json: keys=['GB0000', 'GB0001', 'GB0002', 'GB0003', 'GB0004']
+- README.md: Error loading MD ()
+- console.png: 507 bytes
+- ICON_LICENSE.md: Silk icon set 1.3 by Mark James <mjames@gmail.com>  http://w
+- less.png: 191 bytes
+- more.png: 200 bytes
+- head_sample_table.csv: 6x128, DZQV_CD8_naive: mean=0.829, std=1.928; DZQV_CD8_CM: mean=2.035, std=2.507; DZQV_CD8_EM: mean=0.852, std=1.320; 
+- head_sample_table_GSE107011.csv: 10x128, DZQV_CD8_naive: mean=0.744, std=1.607; DZQV_CD8_CM: mean=1.296, std=2.109; DZQV_CD8_EM: mean=0.632, std=1.081; 
+- head_sample_table_GSE107011_Processed_data_TPM.csv: 10x128, DZQV_CD8_naive: mean=0.744, std=1.607; DZQV_CD8_CM: mean=1.296, std=2.109; DZQV_CD8_EM: mean=0.632, std=1.081; 
+- head_sample_table_main_dataset.csv: 10x128, DZQV_CD8_naive: mean=0.744, std=1.607; DZQV_CD8_CM: mean=1.296, std=2.109; DZQV_CD8_EM: mean=0.632, std=1.081; 
+- X_gene.csv: 127x28448, ENSG00000223972.5: mean=0.374, std=0.716; ENSG00000227232.5: mean=1.780, std=0.776; ENSG00000278267.1: mean=0.550, std=0.832; 
+- X_gene_final.csv: 127x2001, ENSG00000244734: mean=7.332, std=4.594; ENSG00000188536: mean=6.330, std=4.553; ENSG00000090382: mean=6.481, std=4.437; 
+- X_pathway.csv: 127x1, 
+- X_pca.csv: 127x51, PC1: mean=-0.000, std=73.867; PC2: mean=-0.000, std=46.609; PC3: mean=0.000, std=32.586; 
+- X_summary.csv: 127x9, total_expression: mean=72324.410, std=6461.192; mean_expression: mean=2.542, std=0.227; median_expression: mean=2.005, std=0.319; 
+- X_var.csv: 127x5001, ENSG00000240041.1: mean=4.674, std=5.355; ENSG00000211597.2: mean=3.909, std=5.080; ENSG00000211594.2: mean=3.574, std=4.987; 
+- baseline_models_comparison.png: 501702 bytes
+- calibration_analysis.png: 460713 bytes
+- class_imbalance_analysis.png: 354384 bytes
+- confusion_matrix_Random_Forest.png: 66004 bytes
+- deep_learning_training_dnn.png: 589120 bytes
+- density_before_after.png: 12134 bytes
+- feature_engineering_analysis.png: 590187 bytes
+- final_model_comparison.png: 192710 bytes
+- normalization_analysis.png: 823587 bytes
+- pca_before_batch.png: 24175 bytes
+- roc_curve_Random_Forest.png: 122573 bytes
+- statistical_validation.png: 928964 bytes
+- ensembl_to_symbol.csv: 4832x8, start_position: mean=73484741.768, std=54981518.465; end_position: mean=73519510.233, std=54985519.969; strand: mean=0.009, std=1.000; 
+- ensembl_to_symbol_chunk_001.csv: 3x7, chromosome_name: mean=1.000, std=0.000; start_position: mean=183634402.000, std=12797.768; end_position: mean=183739210.333, std=164191.570; 
+- filtered_genes_list.csv: 28447x6, samples_above_threshold: mean=83.965, std=42.467; max_expression: mean=165.220, std=1371.166; mean_expression: mean=35.071, std=313.875; 
+- data_provenance.csv: 2x7, file_size_bytes: mean=26934807.000, std=18007321.297; 
+- metadata_gse.csv: 127x3, label: mean=0.496, std=0.502; 
+- metadata_zenodo.csv: 49x3, label: mean=0.592, std=0.497; 
+- advanced_analysis_Random_Forest.json: keys=['resampled_model_path', 'calibrated_model_path', 'confusion_matrix', 'classification_report', 'roc_curve']
+- baseline_metrics.csv: 4x14, cv_auc_mean: mean=0.857, std=0.193; cv_auc_std: mean=0.072, std=0.059; train_accuracy: mean=0.821, std=0.218; 
+- best_hyperparameters_dnn.json: keys=['learning_rate', 'batch_size', 'weight_decay', 'hidden_dims']
+- bootstrap_confidence_intervals.json: keys=['n_bootstrap', 'confidence_level', 'metrics']
+- calibration_metrics.json: keys=['brier_score', 'expected_calibration_error', 'maximum_calibration_error', 'fraction_of_positives', 'mean_predicted_value']
+- class_imbalance_analysis.json: Error loading JSON (Expecting value: line 4 column 23 (char 65))
+- diff_expr_table.csv: 14068x7, mean_healthy: mean=3.680, std=2.145; mean_disease: mean=3.659, std=2.130; log2FC: mean=-0.021, std=0.158; 
+- hyperparam_search_results.csv: 20x6, learning_rate: mean=0.002, std=0.002; batch_size: mean=52.800, std=43.152; weight_decay: mean=0.000, std=0.000; 
+- permutation_test_results.json: keys=['original_score', 'permutation_scores_mean', 'permutation_scores_std', 'p_value', 'cohens_d']
+- training_log.csv: 79x6, epoch: mean=40.000, std=22.949; train_loss: mean=0.357, std=0.922; val_loss: mean=3.342, std=7.147; 
+- split_info.json: keys=['total_samples', 'features', 'classes', 'random_state', 'strategy']
+- test_indices.csv: 20x2, Unnamed: 0: mean=9.500, std=5.916; 
+- train_indices.csv: 88x2, Unnamed: 0: mean=43.500, std=25.547; 
+- val_indices.csv: 19x2, Unnamed: 0: mean=9.000, std=5.627; 
+
+---
+Generated automatically.

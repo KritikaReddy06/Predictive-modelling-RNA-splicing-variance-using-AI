@@ -1,0 +1,21 @@
+
+RNA SPLICING PROCESS:
+
+DNA (Genomic)
+   --> Transcription
+pre-mRNA: [Exon1]--intron1--[Exon2]--intron2--[Exon3]
+   --> Splicing (introns removed)
+mature mRNA: [Exon1][Exon2][Exon3]
+   --> Translation
+Protein
+
+KEY CONCEPTS:
+- Exons: Coding sequences (retained in mature mRNA)
+- Introns: Non-coding sequences (removed during splicing)
+- Alternative splicing: Different exon combinations -> different proteins
+- Splicing errors: Can lead to disease (e.g., incorrect protein function)
+
+DISEASE CONNECTION:
+- Aberrant splicing patterns in blood cells can indicate genetic disorders
+- Expression levels of spliced transcripts serve as disease biomarkers
+- This analysis focuses on mature mRNA expression patterns

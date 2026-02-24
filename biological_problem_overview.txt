@@ -1,0 +1,29 @@
+
+FOCUS: RNA splicing irregularities in blood cells leading to genetic blood disorders
+
+OBJECTIVE: 
+- Identify whether a blood cell's RNA expression pattern suggests healthy/diseased state
+- Quantify disease probability per gene using explainable AI
+- Provide percentage risk predictions for each disease
+
+TARGET DISEASES (8):
+    1. Hemophilia
+    2. von Willebrand disease
+    3. Sickle Cell Disease
+    4. Thalassemia
+    5. Thrombophilia
+    6. Platelet Disorders
+    7. Hereditary Hemorrhagic Telangiectasia (HHT)
+    8. Iron-refractory Iron-Deficiency Anemia
+
+APPROACH:
+- RNA expression analysis (mRNA level)
+- Machine learning classification (baseline models)
+- Deep learning models (DNN/CNN)
+- Explainable AI (SHAP) for gene-level disease contribution
+- Multi-disease prediction framework with percentage risk scores
+- Statistical validation (bootstrap, permutation tests)
+
+DATA SOURCES:
+- GSE107011: RNA-seq dataset from blood tissue
+- Zenodo Dataset: Multi-condition RNA expression matrices

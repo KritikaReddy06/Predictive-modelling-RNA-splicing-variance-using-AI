@@ -1,0 +1,89 @@
+{
+  "resampled_model_path": "models/Random_Forest_resampled.joblib",
+  "calibrated_model_path": "models/Random_Forest_calibrated.joblib",
+  "confusion_matrix": [
+    [
+      12,
+      0
+    ],
+    [
+      0,
+      8
+    ]
+  ],
+  "classification_report": {
+    "0": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 12.0
+    },
+    "1": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 8.0
+    },
+    "accuracy": 1.0,
+    "macro avg": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 20.0
+    },
+    "weighted avg": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 20.0
+    }
+  },
+  "roc_curve": {
+    "fpr": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.25,
+      0.5833333333333334,
+      0.8333333333333334,
+      1.0
+    ],
+    "tpr": [
+      0.0,
+      0.125,
+      0.625,
+      0.75,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  "pr_curve": {
+    "precision": [
+      0.4,
+      0.4444444444444444,
+      0.5333333333333333,
+      0.7272727272727273,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "recall": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      0.75,
+      0.625,
+      0.125,
+      0.0
+    ]
+  }
+}

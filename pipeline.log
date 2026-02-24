@@ -1,0 +1,225 @@
+2025-09-20 13:32:18,704 INFO:Directory structure created successfully
+2025-09-20 13:32:26,589 INFO:Directory structure created successfully
+2025-09-20 14:22:13,146 INFO:Directory structure created successfully
+2025-09-20 14:22:14,812 INFO:Directory structure created successfully
+2025-09-20 15:31:43,743 INFO:Directory structure created successfully
+2025-09-20 15:31:44,579 INFO:Directory structure created successfully
+2025-09-20 20:23:28,126 INFO:Directory structure created successfully
+2025-09-20 20:23:41,550 INFO:Directory structure created successfully
+2025-09-20 20:26:26,196 INFO:Directory structure created successfully
+2025-09-20 20:26:27,051 INFO:Directory structure created successfully
+2025-09-20 20:38:27,728 INFO:Directory structure created successfully
+2025-09-20 20:38:28,600 INFO:Directory structure created successfully
+2025-09-21 12:15:01,048 INFO:Directory structure created successfully
+2025-09-21 12:16:03,863 INFO:Directory structure created successfully
+2025-09-21 12:24:07,423 INFO:Directory structure created successfully
+2025-09-21 12:25:38,057 INFO:Directory structure created successfully
+2025-09-21 12:26:09,343 INFO:Directory structure created successfully
+2025-09-21 12:27:25,938 INFO:Directory structure created successfully
+2025-09-21 12:31:27,274 INFO:Directory structure created successfully
+2025-09-21 12:31:54,268 INFO:Directory structure created successfully
+2025-09-21 12:33:41,676 INFO:Directory structure created successfully
+2025-09-21 12:37:02,756 INFO:Directory structure created successfully
+2025-09-21 12:37:03,845 INFO:Starting advanced analysis pipeline
+2025-09-21 12:37:03,845 INFO:Using Random_Forest for advanced analysis
+2025-09-21 12:37:03,845 INFO:Handling class imbalance with smote
+2025-09-21 12:37:33,383 INFO:Directory structure created successfully
+2025-09-21 12:37:34,456 INFO:Starting advanced analysis pipeline
+2025-09-21 12:37:34,456 INFO:Using Random_Forest for advanced analysis
+2025-09-21 12:37:34,456 INFO:Handling class imbalance with smote
+2025-09-21 12:38:11,817 INFO:Directory structure created successfully
+2025-09-21 12:38:11,933 INFO:Initializing synthetic data for demonstration
+2025-09-21 12:38:11,934 INFO:Training a simple Random Forest model
+2025-09-21 12:38:11,958 INFO:Model saved to models/Random_Forest.joblib
+2025-09-21 12:38:11,958 INFO:Running advanced analysis
+2025-09-21 12:38:11,958 INFO:Starting advanced analysis pipeline
+2025-09-21 12:38:11,958 INFO:Using Random_Forest for advanced analysis
+2025-09-21 12:38:11,958 INFO:Handling class imbalance with smote
+2025-09-21 12:38:11,965 INFO:Resampled training data from (100, 10) to (112, 10)
+2025-09-21 12:38:11,987 INFO:Calibrating model with platt
+2025-09-21 12:38:12,011 INFO:Creating publication materials
+2025-09-21 12:38:12,799 INFO:Advanced analysis completed successfully
+2025-09-21 12:38:12,799 INFO:Advanced analysis completed successfully
+2025-09-21 12:49:45,344 INFO:Directory structure created successfully
+2025-09-21 12:49:45,459 INFO:Loading existing trained models and data splits
+2025-09-21 12:49:45,463 INFO:Loaded model: Random_Forest
+2025-09-21 12:49:45,465 INFO:Loaded model: Random_Forest_calibrated
+2025-09-21 12:49:45,466 INFO:Loaded model: Random_Forest_resampled
+2025-09-21 12:49:45,467 ERROR:Data files not found: [Errno 2] No such file or directory: 'data/X_train.csv'
+2025-09-21 12:51:12,493 INFO:Directory structure created successfully
+2025-09-21 12:51:12,640 INFO:Initializing synthetic data for demonstration
+2025-09-21 12:51:12,641 INFO:Training a simple Random Forest model
+2025-09-21 12:51:12,657 INFO:Model saved to models/Random_Forest.joblib
+2025-09-21 12:51:12,658 INFO:Running advanced analysis
+2025-09-21 12:51:12,658 INFO:Starting advanced analysis pipeline
+2025-09-21 12:51:12,658 INFO:Using Random_Forest for advanced analysis
+2025-09-21 12:51:12,658 INFO:Handling class imbalance with smote
+2025-09-21 12:51:12,660 INFO:Resampled training data from (100, 10) to (100, 10)
+2025-09-21 12:51:12,683 INFO:Calibrating model with platt
+2025-09-21 12:51:12,699 INFO:Creating publication materials
+2025-09-21 12:51:13,302 INFO:Advanced analysis completed successfully
+2025-09-21 12:51:13,302 INFO:Advanced analysis completed successfully
+2025-09-21 12:54:08,384 INFO:Directory structure created successfully
+2025-09-21 12:54:08,519 INFO:Initializing synthetic data for demonstration
+2025-09-21 12:54:08,520 INFO:Training a simple Random Forest model
+2025-09-21 12:54:08,535 INFO:Model saved to models/Random_Forest.joblib
+2025-09-21 12:54:08,535 INFO:Running advanced analysis
+2025-09-21 12:54:08,535 INFO:Starting advanced analysis pipeline
+2025-09-21 12:54:08,535 INFO:Using Random_Forest for advanced analysis
+2025-09-21 12:54:08,535 INFO:Handling class imbalance with smote
+2025-09-21 12:54:08,539 INFO:Resampled training data from (100, 10) to (110, 10)
+2025-09-21 12:54:08,563 INFO:Calibrating model with platt
+2025-09-21 12:54:08,580 INFO:Creating publication materials
+2025-09-21 12:54:09,157 INFO:Advanced analysis completed successfully
+2025-09-21 12:54:09,157 INFO:Advanced analysis completed successfully
+2025-09-21 12:55:43,330 INFO:Directory structure created successfully
+2025-09-21 12:55:43,461 INFO:Initializing synthetic data for demonstration
+2025-09-21 12:55:43,461 INFO:Training a simple Random Forest model
+2025-09-21 12:55:43,477 INFO:Model saved to models/Random_Forest.joblib
+2025-09-21 12:55:43,477 INFO:Running advanced analysis
+2025-09-21 12:55:43,477 INFO:Starting advanced analysis pipeline
+2025-09-21 12:55:43,477 INFO:Using Random_Forest for advanced analysis
+2025-09-21 12:55:43,477 INFO:Handling class imbalance with smote
+2025-09-21 12:55:43,481 INFO:Resampled training data from (100, 10) to (118, 10)
+2025-09-21 12:55:43,502 INFO:Calibrating model with platt
+2025-09-21 12:55:43,520 INFO:Creating publication materials
+2025-09-21 12:55:44,050 INFO:Advanced analysis completed successfully
+2025-09-21 12:55:44,050 INFO:Advanced analysis completed successfully
+2025-09-21 12:57:58,483 INFO:Directory structure created successfully
+2025-09-21 12:57:58,613 INFO:Initializing synthetic data for demonstration
+2025-09-21 12:57:58,614 INFO:Training a simple Random Forest model
+2025-09-21 12:57:58,627 INFO:Model saved to models/Random_Forest.joblib
+2025-09-21 12:57:58,627 INFO:Running advanced analysis
+2025-09-21 12:57:58,627 INFO:Starting advanced analysis pipeline
+2025-09-21 12:57:58,627 INFO:Using Random_Forest for advanced analysis
+2025-09-21 12:57:58,627 INFO:Handling class imbalance with smote
+2025-09-21 12:57:58,630 INFO:Resampled training data from (100, 10) to (104, 10)
+2025-09-21 12:57:58,652 INFO:Calibrating model with platt
+2025-09-21 12:57:58,671 INFO:Creating publication materials
+2025-09-21 12:57:59,165 INFO:Advanced analysis completed successfully
+2025-09-21 12:57:59,165 INFO:Advanced analysis completed successfully
+2025-09-21 12:59:13,839 INFO:Directory structure created successfully
+2025-09-21 12:59:13,955 INFO:Initializing synthetic data for demonstration
+2025-09-21 12:59:13,956 INFO:Training a simple Random Forest model
+2025-09-21 12:59:13,973 INFO:Model saved to models/Random_Forest.joblib
+2025-09-21 12:59:13,973 INFO:Running advanced analysis
+2025-09-21 12:59:13,973 INFO:Starting advanced analysis pipeline
+2025-09-21 12:59:13,973 INFO:Using Random_Forest for advanced analysis
+2025-09-21 12:59:13,973 INFO:Handling class imbalance with smote
+2025-09-21 12:59:13,977 INFO:Resampled training data from (100, 10) to (100, 10)
+2025-09-21 12:59:14,003 INFO:Calibrating model with platt
+2025-09-21 12:59:14,024 INFO:Creating publication materials
+2025-09-21 12:59:14,511 INFO:Advanced analysis completed successfully
+2025-09-21 12:59:14,511 INFO:Advanced analysis completed successfully
+2025-09-21 13:00:33,124 INFO:Directory structure created successfully
+2025-09-21 13:00:33,235 INFO:Initializing synthetic data for demonstration
+2025-09-21 13:00:33,236 INFO:Training a simple Random Forest model
+2025-09-21 13:00:33,249 INFO:Model saved to models/Random_Forest.joblib
+2025-09-21 13:00:33,249 INFO:Running advanced analysis
+2025-09-21 13:00:33,249 INFO:Starting advanced analysis pipeline
+2025-09-21 13:00:33,249 INFO:Using Random_Forest for advanced analysis
+2025-09-21 13:00:33,250 INFO:Handling class imbalance with smote
+2025-09-21 13:00:33,253 INFO:Resampled training data from (100, 10) to (102, 10)
+2025-09-21 13:00:33,272 INFO:Calibrating model with platt
+2025-09-21 13:00:33,285 INFO:Creating publication materials
+2025-09-21 13:00:33,766 INFO:Advanced analysis completed successfully
+2025-09-21 13:00:33,766 INFO:Advanced analysis completed successfully
+2025-09-21 13:02:49,264 INFO:Directory structure created successfully
+2025-09-21 13:02:49,389 INFO:Initializing synthetic data for demonstration
+2025-09-21 13:02:49,390 INFO:Training a simple Random Forest model
+2025-09-21 13:02:49,405 INFO:Model saved to models/Random_Forest.joblib
+2025-09-21 13:02:49,406 INFO:Running advanced analysis
+2025-09-21 13:02:49,406 INFO:Starting advanced analysis pipeline
+2025-09-21 13:02:49,406 INFO:Using Random_Forest for advanced analysis
+2025-09-21 13:02:49,406 INFO:Handling class imbalance with smote
+2025-09-21 13:02:49,408 INFO:Resampled training data from (100, 10) to (106, 10)
+2025-09-21 13:02:49,429 INFO:Calibrating model with platt
+2025-09-21 13:02:49,443 INFO:Creating publication materials
+2025-09-21 13:02:49,961 INFO:Advanced analysis completed successfully
+2025-09-21 13:02:49,961 INFO:Advanced analysis completed successfully
+2025-09-21 13:02:59,562 INFO:Directory structure created successfully
+2025-09-21 13:02:59,698 INFO:Initializing synthetic data for demonstration
+2025-09-21 13:02:59,699 INFO:Training a simple Random Forest model
+2025-09-21 13:02:59,713 INFO:Model saved to models/Random_Forest.joblib
+2025-09-21 13:02:59,713 INFO:Running advanced analysis
+2025-09-21 13:02:59,713 INFO:Starting advanced analysis pipeline
+2025-09-21 13:02:59,713 INFO:Using Random_Forest for advanced analysis
+2025-09-21 13:02:59,713 INFO:Handling class imbalance with smote
+2025-09-21 13:02:59,716 INFO:Resampled training data from (100, 10) to (102, 10)
+2025-09-21 13:02:59,743 INFO:Calibrating model with platt
+2025-09-21 13:02:59,762 INFO:Creating publication materials
+2025-09-21 13:03:00,323 INFO:Advanced analysis completed successfully
+2025-09-21 13:03:00,323 INFO:Advanced analysis completed successfully
+2025-09-21 13:04:09,289 INFO:Directory structure created successfully
+2025-09-21 13:04:09,411 INFO:Initializing synthetic data for demonstration
+2025-09-21 13:04:09,412 INFO:Training a simple Random Forest model
+2025-09-21 13:04:09,426 INFO:Model saved to models/Random_Forest.joblib
+2025-09-21 13:04:09,427 INFO:Running advanced analysis
+2025-09-21 13:04:09,427 INFO:Starting advanced analysis pipeline
+2025-09-21 13:04:09,427 INFO:Using Random_Forest for advanced analysis
+2025-09-21 13:04:09,427 INFO:Handling class imbalance with smote
+2025-09-21 13:04:09,430 INFO:Resampled training data from (100, 10) to (110, 10)
+2025-09-21 13:04:09,452 INFO:Calibrating model with platt
+2025-09-21 13:04:09,466 INFO:Creating publication materials
+2025-09-21 13:04:10,009 INFO:Advanced analysis completed successfully
+2025-09-21 13:04:10,009 INFO:Advanced analysis completed successfully
+2025-09-21 13:06:51,878 INFO:Directory structure created successfully
+2025-09-21 13:06:51,989 INFO:Initializing synthetic data for demonstration
+2025-09-21 13:06:51,989 INFO:Training a simple Random Forest model
+2025-09-21 13:06:52,002 INFO:Model saved to models/Random_Forest.joblib
+2025-09-21 13:06:52,002 INFO:Running advanced analysis
+2025-09-21 13:06:52,002 INFO:Starting advanced analysis pipeline
+2025-09-21 13:06:52,002 INFO:Using Random_Forest for advanced analysis
+2025-09-21 13:06:52,002 INFO:Handling class imbalance with smote
+2025-09-21 13:06:52,004 INFO:Resampled training data from (100, 10) to (100, 10)
+2025-09-21 13:06:52,024 INFO:Calibrating model with platt
+2025-09-21 13:06:52,039 INFO:Creating publication materials
+2025-09-21 13:06:52,519 INFO:Advanced analysis completed successfully
+2025-09-21 13:06:52,519 INFO:Advanced analysis completed successfully
+2025-09-21 13:09:06,392 INFO:Directory structure created successfully
+2025-09-21 13:09:06,504 INFO:Initializing synthetic data for demonstration
+2025-09-21 13:09:06,504 INFO:Training a simple Random Forest model
+2025-09-21 13:09:06,517 INFO:Model saved to models/Random_Forest.joblib
+2025-09-21 13:09:06,517 INFO:Running advanced analysis
+2025-09-21 13:09:06,517 INFO:Starting advanced analysis pipeline
+2025-09-21 13:09:06,517 INFO:Using Random_Forest for advanced analysis
+2025-09-21 13:09:06,517 INFO:Handling class imbalance with smote
+2025-09-21 13:09:06,521 INFO:Resampled training data from (100, 10) to (124, 10)
+2025-09-21 13:09:06,541 INFO:Calibrating model with platt
+2025-09-21 13:09:06,554 INFO:Creating publication materials
+2025-09-21 13:09:07,037 INFO:Advanced analysis completed successfully
+2025-09-21 13:09:07,038 INFO:Advanced analysis completed successfully
+2025-09-21 13:12:06,117 INFO:Directory structure created successfully
+2025-09-21 13:12:06,231 INFO:Initializing synthetic data for demonstration
+2025-09-21 13:12:06,231 INFO:Training a simple Random Forest model
+2025-09-21 13:12:06,244 INFO:Model saved to models/Random_Forest.joblib
+2025-09-21 13:12:06,244 INFO:Running advanced analysis
+2025-09-21 13:12:06,244 INFO:Starting advanced analysis pipeline
+2025-09-21 13:12:06,244 INFO:Using Random_Forest for advanced analysis
+2025-09-21 13:12:06,244 INFO:Handling class imbalance with smote
+2025-09-21 13:12:06,247 INFO:Resampled training data from (100, 10) to (102, 10)
+2025-09-21 13:12:06,265 INFO:Calibrating model with platt
+2025-09-21 13:12:06,279 INFO:Creating publication materials
+2025-09-21 13:12:06,745 INFO:Advanced analysis completed successfully
+2025-09-21 13:12:06,745 INFO:Advanced analysis completed successfully
+2025-09-21 13:12:21,499 INFO:Directory structure created successfully
+2025-09-21 13:12:21,635 INFO:Initializing synthetic data for demonstration
+2025-09-21 13:12:21,636 INFO:Training a simple Random Forest model
+2025-09-21 13:12:21,647 INFO:Model saved to models/Random_Forest.joblib
+2025-09-21 13:12:21,647 INFO:Running advanced analysis
+2025-09-21 13:12:21,647 INFO:Starting advanced analysis pipeline
+2025-09-21 13:12:21,647 INFO:Using Random_Forest for advanced analysis
+2025-09-21 13:12:21,647 INFO:Handling class imbalance with smote
+2025-09-21 13:12:21,651 INFO:Resampled training data from (100, 10) to (102, 10)
+2025-09-21 13:12:21,672 INFO:Calibrating model with platt
+2025-09-21 13:12:21,687 INFO:Creating publication materials
+2025-09-21 13:12:22,204 INFO:Advanced analysis completed successfully
+2025-09-21 13:12:22,204 INFO:Advanced analysis completed successfully
+2025-09-21 13:21:54,463 INFO:Directory structure created successfully
+2025-09-22 16:23:28,781 INFO:Directory structure created successfully
+2025-09-22 16:23:30,070 INFO:Directory structure created successfully
+2025-10-20 05:42:33,355 INFO:Directory structure created successfully
+2025-10-20 06:18:52,816 INFO:Directory structure created successfully
+2025-10-21 11:43:23,793 INFO:Directory structure created successfully
+2025-10-21 11:53:16,770 INFO:Directory structure created successfully
+2025-10-21 12:22:00,467 INFO:Directory structure created successfully
